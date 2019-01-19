@@ -4,3 +4,4 @@ Dette er test med git.
 3333 (branch test)
 4444 (branch test)
 5555 (branch test)
+6666
