@@ -2,3 +2,4 @@ Dette er test med git.
 1111
 2222
 3333 (branch test)
+4444 (branch test)
