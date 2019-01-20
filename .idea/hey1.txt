@@ -8,3 +8,4 @@ Dette er test med git.
 7777
 8888888
 99999
+10 10 10
