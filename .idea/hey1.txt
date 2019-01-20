@@ -6,3 +6,4 @@ Dette er test med git.
 5555 (branch test)
 6666
 7777
+8888888
